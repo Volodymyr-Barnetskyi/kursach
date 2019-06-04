@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1559645861 source:c:\users\vovab\desktop\kursova\classes.cpp
+	"class.h"
+
+1559646055 c:\users\vovab\desktop\kursova\class.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+
